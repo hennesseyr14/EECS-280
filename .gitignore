@@ -1,0 +1,14 @@
+*.vs
+*.obj
+#.exe
+*.exe.*
+*.ilk
+*.pdb
+*.log
+*.idb
+*.sln
+*.vcxproj*
+*.tlog*
+*~
+~*
+.DS_Store
